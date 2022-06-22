@@ -39,3 +39,9 @@ In this first class was created the project structure using ViteJS with ReactJS 
 <br>
 <br>
 <b>Tools:</b> ReactJS, Apollo, GraphQL, GraphCMS.
+
+### 📝 Second class - Visual structure
+In this class was developed the visual structure of the project and all the components of the sidebar with Tailwindcss getting the informations for lessons from the GraphCMS.
+<br>
+<br>
+<b>Tools:</b> Components, Props, Tailwindcss.
