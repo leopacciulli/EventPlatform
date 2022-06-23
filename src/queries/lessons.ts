@@ -11,3 +11,18 @@ export const GET_LESSONS_QUERY = gql`
     }
   }
 `
+
+export const GET_LESSON_QUERY = gql`
+  query GetLessonBySlug ($slug: String) {
+    lesson(where: {slug: $slug}) {
+      title
+      videoId
+      description
+      teacher {
+        bio
+        avatarURL
+        name
+      }
+    }
+  }
+`

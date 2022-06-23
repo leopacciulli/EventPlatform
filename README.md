@@ -45,3 +45,9 @@ In this class was developed the visual structure of the project and all the comp
 <br>
 <br>
 <b>Tools:</b> Components, Props, Tailwindcss.
+
+### 📝 Third class - Routing and Video player
+In this class was developed the routing with react-router-dom, a query was made to get lesson data, such as videoId and class data in the sidebar component and used the Link from router-dom to get the video URL (slug).
+<br>
+<br>
+<b>Tools:</b> Router, GraphQL.
