@@ -38,7 +38,7 @@ GraphCMS: https://graphcms.com/ <br>
 In this first class was created the project structure using ViteJS with ReactJS and Typescript. Also, we integrated the Apollo/GraphQL with the GraphCMS to get all the contents for the platform. We will use GraphCMS to store the contents like: Lessons, teachers, challenges and subscribers.
 <br>
 <br>
-<b>Tools:</b> ReactJS, Apollo, GraphQL, GraphCMS.
+<b>Tools:</b> ReactJS, Apollo, GraphQL Query, GraphCMS.
 
 ### 📝 Second class - Visual structure
 In this class was developed the visual structure of the project and all the components of the sidebar with Tailwindcss getting the informations for lessons from the GraphCMS.
@@ -50,4 +50,10 @@ In this class was developed the visual structure of the project and all the comp
 In this class was developed the routing with react-router-dom, a query was made to get lesson data, such as videoId and class data in the sidebar component and used the Link from router-dom to get the video URL (slug).
 <br>
 <br>
-<b>Tools:</b> Router, GraphQL.
+<b>Tools:</b> Router, GraphQL Query.
+
+### 📝 Fourth class - Subscriber with GraphQL (mutation)
+In this class was created a mutation to subscribe the user to GraphCMS on main screen with GraphQL. Navigate the user to the event screen and also, some styles with classnames library on Sidebar.
+<br>
+<br>
+<b>Tools:</b> Navigate, GraphQL Mutation, ClassNames.
